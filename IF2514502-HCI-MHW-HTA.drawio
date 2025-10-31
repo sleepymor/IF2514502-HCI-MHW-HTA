@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.2.8">
+  <diagram name="Page-1" id="SCPWhfTy-iKj_AJq2Lqe">
+    <mxGraphModel dx="1597" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-1" target="x5QcdC0Hwv8vZzdbUcJA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-1" target="x5QcdC0Hwv8vZzdbUcJA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-1" target="x5QcdC0Hwv8vZzdbUcJA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-1" target="x5QcdC0Hwv8vZzdbUcJA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-1" target="x5QcdC0Hwv8vZzdbUcJA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-1" value="0.Craft Senjata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-4" target="x5QcdC0Hwv8vZzdbUcJA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-4" value="0.1. Pilih senjata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-6" target="x5QcdC0Hwv8vZzdbUcJA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-6" value="0.2. Periksa bahan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-8" target="x5QcdC0Hwv8vZzdbUcJA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-8" value="0.3. Dapatkan bahan yang kurang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-10" target="x5QcdC0Hwv8vZzdbUcJA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-10" value="0.4. Craft senjata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-12" target="x5QcdC0Hwv8vZzdbUcJA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-12" value="0.5. Upgrade Senjata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-14" target="x5QcdC0Hwv8vZzdbUcJA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-14" value="0.1.1. Buka Menu Smithy" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-16" target="x5QcdC0Hwv8vZzdbUcJA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-16" value="0.1.2. Pilih Kategori Senjata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-18" value="0.1.3. Pilih Senjata" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-20" target="x5QcdC0Hwv8vZzdbUcJA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-20" value="0.2.1. Lihat daftar bahan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-22" target="x5QcdC0Hwv8vZzdbUcJA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-22" value="0.2.2. Cek Inventori" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-24" value="0.2.3. Note Bahan yang Kurang" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-26" target="x5QcdC0Hwv8vZzdbUcJA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-26" value="0.3.1. Pilih Monster yang drop bahan tersebut" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-28" target="x5QcdC0Hwv8vZzdbUcJA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-28" value="0.3.2. Kalahkan Monster" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-30" value="0.3.3. Kembalik ke base" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-32" target="x5QcdC0Hwv8vZzdbUcJA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-32" value="0.4.1. Pilih craft weapon" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-34" target="x5QcdC0Hwv8vZzdbUcJA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-34" value="0.4.2. Pastikan bahan tersedia" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-36" value="0.4.3. Konfirmasi Crafting" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-38" target="x5QcdC0Hwv8vZzdbUcJA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-38" value="0.5.1. Pilih senjata yang sudah dibuat" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5QcdC0Hwv8vZzdbUcJA-40" target="x5QcdC0Hwv8vZzdbUcJA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-40" value="0.5.2. Pilih upgrade weapon" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5QcdC0Hwv8vZzdbUcJA-42" value="0.5.3. Konfirmasi upgrade" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
