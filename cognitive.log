@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.30)  31 OCT 2025 20:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.30)  31 OCT 2025 20:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/kuliah/S3/IF2514502-HCI/Tugas/cognitive.tex
-(d:/kuliah/S3/IF2514502-HCI/Tugas/cognitive.tex
+**d:/kuliah/S3/IF2514502-HCI/Cognitive-Analysis/cognitive.tex
+(d:/kuliah/S3/IF2514502-HCI/Cognitive-Analysis/cognitive.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\SleepyMoru\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -739,11 +739,8 @@ Overfull \hbox (5.4766pt too wide) in paragraph at lines 157--158
  jika pemain terlalu cepat menekan tombol
  []
 
-
-Overfull \hbox (53.65009pt too wide) in paragraph at lines 199--200
- [] 
- []
-
+File: Image/HTA.png Graphic file (type bmp)
+<Image/HTA.png>
 
 
 [8]
@@ -755,12 +752,12 @@ L3 programming layer <2025-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 17242 strings out of 403196
- 394781 string characters out of 5454884
- 823392 words of memory out of 5000000
- 45487 multiletter control sequences out of 15000+600000
- 631554 words of font info for 75 fonts, out of 8000000 for 9000
+ 17104 strings out of 403196
+ 392285 string characters out of 5454884
+ 820392 words of memory out of 5000000
+ 45349 multiletter control sequences out of 15000+600000
+ 631546 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,6n,93p,654b,788s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,6n,93p,667b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cognitive.pdf (9 pages).

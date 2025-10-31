@@ -160,43 +160,8 @@ Secara keseluruhan, proses ini menggambarkan hubungan antara persepsi, memori, d
 \subsection{Diagram HTA}
 
 \begin{center}
-\begin{tikzpicture}[
-  node distance=1.2cm and 2cm,
-  every node/.style={rectangle, rounded corners, draw=black, align=center, fill=gray!5, font=\small, text width=5cm},
-  level distance=1.5cm
-]
-
-\node (root) {1. Crafting Senjata di Smithy};
-
-\node (a1) [below=of root] {1.1 Masuk ke Astera};
-\node (a2) [below=of a1] {1.2 Pergi ke Lokasi Smithy};
-\node (a3) [below=of a2] {1.3 Bicara dengan Smithy (NPC)};
-\node (a4) [below=of a3] {1.4 Pilih Menu “Craft Equipment”};
-\node (a5) [below=of a4] {1.5 Pilih Jenis Senjata};
-\node (a6) [below=of a5] {1.6 Telusuri Pohon Senjata};
-\node (a7) [below=of a6] {1.7 Cek Material yang Dibutuhkan};
-\node (a8) [below=of a7] {1.8 [Decision] Material Cukup?};
-
-\node (a9) [below left=0.5cm and 1cm of a8] {1.8.1 Ya → Lanjut Crafting};
-\node (a10) [below right=0.5cm and 1cm of a8] {1.8.2 Tidak → Cari Material Dulu};
-\node (a11) [below=of a9] {1.9 Konfirmasi Crafting dan Selesai};
-
-% Garis vertikal utama
-\draw[->, thick] (root) -- (a1);
-\draw[->, thick] (a1) -- (a2);
-\draw[->, thick] (a2) -- (a3);
-\draw[->, thick] (a3) -- (a4);
-\draw[->, thick] (a4) -- (a5);
-\draw[->, thick] (a5) -- (a6);
-\draw[->, thick] (a6) -- (a7);
-\draw[->, thick] (a7) -- (a8);
-
-% Cabang keputusan
-\draw[->, thick] (a8) -- (a9);
-\draw[->, thick] (a8) -- (a10);
-\draw[->, thick] (a9) -- (a11);
-
-\end{tikzpicture}
+    \includegraphics[width=0.8\textwidth]{Image/HTA.png}
+    \captionof{figure}{Diagram HTA}
 \end{center}
 
 
